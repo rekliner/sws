@@ -1,3 +1,6 @@
+This fork exists only because I'm job searching.  If someone is reviewing my code please see https://github.com/reaper-oss/sws/commit/c3e63f02cf27e198ed2c49cc7ac319b8a5f116f7 for most of my contributions to the SWS project.
+That said I may help out with sws again someday, I was happy to contribute, but for now I've switched to Ableton as my main DAW.
+
 SWS Extension
 
 The SWS extension is a collection of features that seamlessly integrate into REAPER, the Digital Audio Workstation (DAW) software by Cockos, Inc.
